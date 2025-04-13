@@ -1,0 +1,9 @@
+{
+	"name": "neuronx",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f9db672-b5aa-4508-a175-1475dbbc858f",
+		"tenantId": "d883ab9a-843c-4be0-8dea-0c0a185e17e5"
+	}
+}
